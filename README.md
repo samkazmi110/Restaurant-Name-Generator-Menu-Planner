@@ -10,6 +10,6 @@ Excited to unveil my latest project: a dynamic restaurant name generator paired 
 ### Streamlit App Deployment: Deployed using Hugging Face Hub spaces via Streamlit, ensuring a user-friendly and interactive experience.
 Simplify the process of conceptualizing your dream restaurant with just a few clicks. All you need to do is enter your OpenAI API key, select your desired cuisine, and let the magic unfold. Start building your culinary vision today! 🚀
 
-Author: Syed M.
-Linkedin: https://www.linkedin.com/in/syed-ai/
-HuggingFaceHub : huggingface.co/samkazmi
+# Author: Syed M.
+# Linkedin: https://www.linkedin.com/in/syed-ai/
+# HuggingFaceHub : huggingface.co/samkazmi
